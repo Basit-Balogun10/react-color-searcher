@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Basit-Balogun10/react-color-searcher/static/css/main.e584c920.chunk.css",
+    "main.js": "/Basit-Balogun10/react-color-searcher/static/js/main.533a24f4.chunk.js",
+    "main.js.map": "/Basit-Balogun10/react-color-searcher/static/js/main.533a24f4.chunk.js.map",
+    "runtime-main.js": "/Basit-Balogun10/react-color-searcher/static/js/runtime-main.0377a2d4.js",
+    "runtime-main.js.map": "/Basit-Balogun10/react-color-searcher/static/js/runtime-main.0377a2d4.js.map",
+    "static/js/2.74ee5d33.chunk.js": "/Basit-Balogun10/react-color-searcher/static/js/2.74ee5d33.chunk.js",
+    "static/js/2.74ee5d33.chunk.js.map": "/Basit-Balogun10/react-color-searcher/static/js/2.74ee5d33.chunk.js.map",
+    "static/js/3.d14a5b2e.chunk.js": "/Basit-Balogun10/react-color-searcher/static/js/3.d14a5b2e.chunk.js",
+    "static/js/3.d14a5b2e.chunk.js.map": "/Basit-Balogun10/react-color-searcher/static/js/3.d14a5b2e.chunk.js.map",
+    "index.html": "/Basit-Balogun10/react-color-searcher/index.html",
+    "static/css/main.e584c920.chunk.css.map": "/Basit-Balogun10/react-color-searcher/static/css/main.e584c920.chunk.css.map",
+    "static/js/2.74ee5d33.chunk.js.LICENSE.txt": "/Basit-Balogun10/react-color-searcher/static/js/2.74ee5d33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0377a2d4.js",
+    "static/js/2.74ee5d33.chunk.js",
+    "static/css/main.e584c920.chunk.css",
+    "static/js/main.533a24f4.chunk.js"
+  ]
+}
