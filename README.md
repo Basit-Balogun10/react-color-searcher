@@ -7,3 +7,5 @@ This app is a simple one built with React JS and it basically allows users to:<b
 -   Delete existing colors in the mock database.
 
 **React color searcher uses [json server's](https://github.com/typicode/json-server) fake api to store data.**<br>
+
+Demo [here](https://cdn.discordapp.com/attachments/887854538470621194/888266839115833384/react-color-searcher-test.mp4)
